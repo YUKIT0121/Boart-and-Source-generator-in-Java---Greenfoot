@@ -1,0 +1,3 @@
+boat 10 10 1 4
+tractor 250 350
+tractor 500 300
