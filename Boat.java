@@ -5,8 +5,6 @@ import java.util.List;
  * A boat moves with the x and y velocity which are read from the input file. As the tractorbeams are added, the velocities 
  * change due to the fact that tractorbeams pull boats with calculated force.
  *
- * @author Yuki Tsukamoto
- * @version 11/21/2019
  */
 public class Boat extends Actor {
     
