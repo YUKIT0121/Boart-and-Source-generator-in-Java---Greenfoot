@@ -3,8 +3,6 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Source is put at the locations which are read from the input file.
  * 
- * @author Yuki Tsukamoto 
- * @version 11/21/2019
  */
 public class Source extends Actor
 {
