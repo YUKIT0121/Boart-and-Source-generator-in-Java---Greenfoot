@@ -1,11 +1,6 @@
 import greenfoot.*;    // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * A TractorBeam is the actual "line" between a source generator and a boat. 
- * While you are welcome to modify this code, MODIFYING THIS CODE IS HIGHLY
- * INADVISABLE.
- * 
- * @author Stephen Blythe
- * @version 10/2019
  */
 public class TractorBeam extends Actor 
 {
