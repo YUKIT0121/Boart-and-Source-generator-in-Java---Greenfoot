@@ -6,8 +6,6 @@ import java.awt.FileDialog;
 /**
  * World containing Source generators and Boats
  *
- * @author Yuki Tsukamoto
- * @version 11/21/2019
  */ 
 public class MyWorld extends World {
 
